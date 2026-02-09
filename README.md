@@ -157,9 +157,4 @@ AI-Trip-Planner/
 	```
 
 
-## License
-
-MIT License. See LICENSE file for details.
-
-
 [def]: my_graph.png
